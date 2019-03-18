@@ -4,6 +4,10 @@ my articles about reading and watching
 
 ### 假期读书指南|如何阅读之先导篇
 
+> 首发于公众号:pinkxixi-mj
+
+> GitHub:EveryMeng
+
 ![Alt text](res/5.jpg)
 
 最近同学和朋友们陆续回到家，于是大家开启了疯狂吐槽爸妈模式，在家各种被嫌弃、花式被控诉，顿觉已然身入苦海，生无可恋。
@@ -171,7 +175,3 @@ Nonono，欲速则不达。
 
 ---
 > 参考：《如何阅读一本书》(商务印书馆)
-
-> 首发于公众号:pinkxixi-mj
-
-> GitHub:EveryMeng
